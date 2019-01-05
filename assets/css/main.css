@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Work+Sans');
+
+body {
+  background-color: #F8F6F0;
+}
+
+.survey {
+  width: 600px;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.backdrop {
+  background-color: #3D3D3D;
+  border-radius: 5px;
+}
+
+.question {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  font-family: 'Noto Sans';
+  font-weight: lighter;
+  font-size: 24px;
+  color: #F8F6F0;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#scale {
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #333;
+  width: 90%;
+  height: 40px;
+  margin-bottom: 3em;
+  margin-left: 5%;
+  margin-right: 5%;
+  /*text-align: center;*/
+}
+
+.bttns {
+  font-family: 'Noto Sans'
+  font-size: 32px;
+  color: #333;
+  width: 20%;
+  margin-bottom: 1.1em;
+}
+
+#bttn1 {
+  position: relative;
+  right: 25%;
+}
+
+#bttn2 {
+  position: relative;
+  left: 24.5%;
+}
+
+/*
+#optSA {
+
+}
+
+#optA {
+
+}
+
+#optD {
+
+}
+
+#optSD {
+
+}
+*/
